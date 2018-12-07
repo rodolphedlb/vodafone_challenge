@@ -1,16 +1,16 @@
 # V by Vodafone Data Challenge 2018
-### Profiles Customers Interested in IoT Produtts
-The Vodafone Challene wwas a team project in the context of our machine learning course. 
+### Profiles Customers Interested in IoT Products
+The Vodafone Challenge was a team project in the context of our machine learning course. 
 The goal was to create customer clusters for a recent Vodafone product line (V by Vodafone) using a customer dataset with anonymized information. 
 The output was used to develop the best marketing strategy for the Italian market.
 
 
 ### Original Challenge Description
 #### Scope: 
-The overall goal of the thallenge is to profile tustomeers interested in 4 determeined produtts by meeans of unsupervised learning (tlustering). 
+The overall goal of the challenge is to profile customers interested in 4 determined products by means of unsupervised learning (clustering). 
 
 #### Data Source: 
-The dataset describes the profiles of around 2,600 Vodafone customeers who have shown interest in one of the V by Vodafone products. The variables provided are: 
+The dataset describes the profiles of around 2,600 Vodafone customers who have shown interest in one of the V by Vodafone products. The variables provided are: 
 1. The spetific V by Vodafone product that the customer has shown interest in. 
 2. 15 personal and general customer variables such as 
     - ‘Age’
